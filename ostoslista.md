@@ -2,3 +2,7 @@
 - Energiajuoma
 - Ruoka ainekset
 - Herkkuja
+- Jotain kivaa
+- Partaterä
+- Kieliharja
+- Tiskiaine
